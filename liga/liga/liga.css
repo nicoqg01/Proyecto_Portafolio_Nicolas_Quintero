@@ -1,0 +1,37 @@
+table{
+    margin: 30px;
+    margin-left: 20px;
+    padding: 20px;
+    color: grey;
+}
+th, td{
+    margin-left: 40px;
+    padding: 20px;
+}
+td{
+    text-align: center;
+}
+td.equipo{
+    width: 120px;
+    text-align: left;
+}
+caption{
+    margin-left: 40px;
+     font-size: 20px;
+}
+img{
+    height: 50px;
+}
+th.margen{
+    width: 50px;
+}
+td.hr{
+    padding: 0px;
+    margin: 0px;
+}
+hr{
+    border-top: 4px solid #fc0000;
+}
+tr:nth-child(even){
+    background-color: rgb(228, 226, 226)
+}

@@ -1,0 +1,36 @@
+table{
+    background-color: #202020;
+    color: white;
+    border-collapse: collapse;
+}
+img{
+    height: 60px;
+    width: 60px;
+}
+th{
+padding: 10px;
+text-align: left;
+background-color: #022520;
+}
+td{
+padding: 10px;
+text-align: left;
+}
+p{
+    font-size: 12px;
+}
+body{
+    background-color: #202020;
+}
+th.primero{
+    width: 300px;
+}
+th.segundo{
+    width: 300px;
+}
+th.tercero{
+    width: 220px;
+}
+tr:hover td{
+    background-color: grey;
+}
